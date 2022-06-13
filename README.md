@@ -18,8 +18,8 @@ Created_date : A date-time column, use Django’s models.DateTimeField.
 Published_date : A date-time column, use Django’s models.DateTimeField. 
 
 Resources:
-Python: Environment Variables in Django I:"https://www.youtube.com/watch?v=ceSm2yE97VE&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=37"
+[Python: Environment Variables in Django I]("https://www.youtube.com/watch?v=ceSm2yE97VE&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=37")
 
-https://www.youtube.com/watch?v=EexZAwPI2FM&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=33 
+[https://www.youtube.com/watch?v=EexZAwPI2FM&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=33 ]
 
-Introduction To Django by Eniola and Mildness:"https://www.youtube.com/watch?v=fun0b0C2hAM&list=PLxuUHF3OiqfUre0fws5Y33YMfGJnzTBMZ&index=12"
+[Introduction To Django by Eniola and Mildness]("https://www.youtube.com/watch?v=fun0b0C2hAM&list=PLxuUHF3OiqfUre0fws5Y33YMfGJnzTBMZ&index=12")
